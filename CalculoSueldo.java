@@ -1,6 +1,8 @@
 //importamos la libreria para recibir datos
 import java.util.Scanner;
 
+//Este es un cambio que se realizó para la comprobación del uso de comandos git y github :)
+
 /**
 * Clase para calcular el sueldo semanal de un trabajador
 * @author Hilda Raymundo
