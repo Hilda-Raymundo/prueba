@@ -1,6 +1,9 @@
 //importamos la libreria para recibir datos
 import java.util.Scanner;
 
+//Este es un nuevo comentario añadido para ver la función de los comandos git
+// :)
+
 /**
 * Clase para calcular el sueldo semanal de un trabajador
 * @author Hilda Raymundo
